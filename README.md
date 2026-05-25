@@ -97,3 +97,4 @@ if __name__ == "__main__":
 
 
 ### Result:
+Thus,Web Scraping On E-commerce platform using BeautifulSoup is successfully executed.
