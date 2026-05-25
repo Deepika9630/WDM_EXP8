@@ -93,6 +93,7 @@ if __name__ == "__main__":
 ```
 
 ### Output:
+
 <img width="1112" height="79" alt="image" src="https://github.com/user-attachments/assets/c0573b6e-3826-4c6d-82c2-7d14bf61d1ba" />
 
 
